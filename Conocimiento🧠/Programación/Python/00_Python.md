@@ -1,0 +1,5 @@
+## LIbrerias 
+![[Pyserial]]
+![[Numpy]]
+![[Pytorch]]
+

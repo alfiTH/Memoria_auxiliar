@@ -1,0 +1,1 @@
+Copia de respaldo del Conocimiento/Manual General en Obsidian.
