@@ -1,14 +1,10 @@
-# Supervisadas
-[[Support Vector Machines]]
-[[Stochastic Gradient Descend]]
-[[Tree]]
-[[Random Forest]]
-[[Gradient Boosting]]
-[[Extreme Gradient Boosting]]
+![[0_Recorrido_arboles#Recorridos de arboles]]
 
-# No supervisada
+![[0_Heuristica#Heuristica]]
 
-# Heuristica
+![[0_Supervisada#Supervisada]]
 
-# Recoridos de arboles
+![[0_No_supervisada#No supervisada]]
+
+
 

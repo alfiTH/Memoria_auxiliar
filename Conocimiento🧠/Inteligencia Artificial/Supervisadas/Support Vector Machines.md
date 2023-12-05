@@ -7,7 +7,7 @@ Pero se pueda usar un kernel Gausiano para comportamientos no lineales
 ![[Pasted image 20231126203056.png]]
 
 # Ventajas
-Son particularmente poderosos en espacios de alta dimensión y eficaces en casos donde el número de dimensiones es mayor que el número de muestras
+- Son particularmente poderosos en espacios de alta dimensión y eficaces en casos donde el número de dimensiones es mayor que el número de muestras, pero de tamaño pequeño o mediano
 # Desventajas
 
 # Uso
