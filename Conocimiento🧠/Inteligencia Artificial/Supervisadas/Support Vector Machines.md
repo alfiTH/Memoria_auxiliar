@@ -2,7 +2,7 @@
 Busca la mejor combinación de hiperplanos mediante cortes y un margen 
 De base son lineales:
 ![[Pasted image 20231126203152.png]]
-Pero se pueda usar un kernel Gausiano para comportamientos no lineales
+Pero se pueda usar un kernel Gausiano o polynomial #TODO para comportamientos no lineales
 
 ![[Pasted image 20231126203056.png]]
 
